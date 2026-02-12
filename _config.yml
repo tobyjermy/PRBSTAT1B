@@ -1,11 +1,6 @@
 title: "PRBSTAT1B Tutorial Notes"
 description: "Information and Notes for PRBSTAT1B Students"
-theme: minima
-author: Toby Jermy
-
-# Only show these pages in the header navigation
-header_pages:
-  - index.md
+theme: jekyll-theme-cayman
 
 # Markdown rendering
 markdown: kramdown
