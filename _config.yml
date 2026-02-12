@@ -1,9 +1,9 @@
-title: "Weekly Tutorial Notes"
-description: "Probability & Statistics 1B — Tutorial Notes and Resources"
+title: "PRBSTAT1B Tutorial Notes"
+description: "Information and Notes for PRBSTAT1B Students"
 theme: minima
-author: Toby
+author: Toby Jermy
 
-# Navigation links shown in the header
+# Only show these pages in the header navigation
 header_pages:
   - index.md
 
@@ -11,7 +11,3 @@ header_pages:
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-
-# MathJax support (for LaTeX equations)
-include:
-  - _includes
