@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="https://unpkg.com/@pablorm296/cayman-dark@1.3.0/docs/assets/css/style.css">
+  <link rel="stylesheet" href="https://pages-themes.github.io/cayman/assets/css/style.css">
+  
+  <!-- MathJax -->
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      }
+    };
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js" async></script>
+</head>
+<body>
+  <header class="page-header" role="banner">
+    <h1 class="project-name"><a href="./" style="color: white; text-decoration: none;">{{ site.title }}</a></h1>
+    <h2 class="project-tagline">{{ site.description }}</h2>
+  </header>
+
+  <main id="content" class="main-content" role="main">
+    {{ content }}
+
+    <footer class="site-footer">
+      <span class="site-footer-owner">{{ site.title }}</span>
+    </footer>
+  </main>
+</body>
+</html>
