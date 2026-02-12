@@ -5,4 +5,4 @@ theme: jekyll-theme-cayman
 # Markdown rendering
 markdown: kramdown
 kramdown:
-  math_engine: mathjax
+  math_engine: null
