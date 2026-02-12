@@ -1,5 +1,4 @@
 
-# Weekly Tutorial Notes
 
 Welcome! This page contains notes and worked examples for our weekly tutorials.
 
