@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Week 1 — Housekeeping & Probability Review"
+---
+
 ## Worked Exercises
 
 ### Exercise 1 — Fair Coin Tossed 3 Times
