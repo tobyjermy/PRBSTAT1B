@@ -3,6 +3,21 @@ layout: default
 title: "Week 1 — Housekeeping & Probability Review"
 ---
 
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js" async></script>
+
+# Week 1 — Housekeeping & Probability Review
+
+[← Back to Home](./)
+
+---
 ## Worked Exercises
 
 ### Exercise 1 — Fair Coin Tossed 3 Times
