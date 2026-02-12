@@ -1,0 +1,17 @@
+title: "Weekly Tutorial Notes"
+description: "Probability & Statistics 1B — Tutorial Notes and Resources"
+theme: minima
+author: Toby
+
+# Navigation links shown in the header
+header_pages:
+  - index.md
+
+# Markdown rendering
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+# MathJax support (for LaTeX equations)
+include:
+  - _includes
