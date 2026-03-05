@@ -2,7 +2,6 @@
 layout: default
 title: "Lab 2 — Histograms, Normal Approximation & Random Number Generation"
 published: false
-
 ---
 
 # Lab 2 — Histograms, Normal Approximation & Random Number Generation
